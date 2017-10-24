@@ -13,6 +13,8 @@ int main(){
 	int a(10),b(7),c(12);
 	
 	
-	
+	cout << nilai<<" : "<<Nilai<<" | "<<Nilai<<" "<<nilai<<endl;
+	cout << angka <<"\n";
+	cout << Angka <<endl<<ANGKA;
 	
 }
