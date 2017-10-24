@@ -7,5 +7,8 @@ int main(){
 	double Luas1Box = LantaiPkt*8/1000000;
 	double JumlahBoxP,BiayaP,BiayaPG,TotalB;
 	
+	cout << "Luas Rumah				:"<<LuasRumah<<" m2"<<endl;
+	cout <<"Luas 1 Box				:"<<Luas1Box<<" m2"<<endl;
+	
 	
 }
